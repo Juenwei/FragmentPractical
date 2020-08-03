@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Aug 03 14:50:21 SGT 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\FORGE-15 I5\\.AndroidStudio4.0\\NewProject\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
